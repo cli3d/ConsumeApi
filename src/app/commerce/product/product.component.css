@@ -1,0 +1,33 @@
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+.mat-column-id {
+  width: 10% !important;
+}
+.mat-column-content {
+  word-wrap: break-word !important;
+  white-space: unset !important;
+  flex: 0 0 60% !important;
+  width: 60% !important;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+.mat-column-ownerID {
+  padding-left: 2%;
+  width: 28% !important;
+}
+
+tr.example-element-row:hover {
+  background: #d84527;
+}
